@@ -1,12 +1,7 @@
-.container{
-    
-      height: 83%;
-    
+.container {
+  height: 83%;
 }
-
-    .material-icons{
-        color: rgb(59, 105, 173);
-        padding-right: .6rem;
-      
-    }
-
+.material-icons {
+  color: rgb(59, 105, 173);
+  padding-right: 0.6rem;
+}

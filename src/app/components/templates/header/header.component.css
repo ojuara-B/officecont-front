@@ -1,25 +1,20 @@
 img {
-
-    height: 3.4rem;
-
+  height: 3.4rem;
 }
 
-.header{
-
-    justify-content: left;
-    height: 12%;
-    background-color:#0d0850;
+.header {
+  justify-content: left;
+  height: 12%;
+  background-color: #0d0850;
 }
 
-span{
-    display: flex;
-    align-items: left;
+span {
+  display: flex;
+  align-items: left;
 }
 
-
-.textotoolbar{
-
-    padding-left: 1.5rem;
-    color: cornsilk;
-    font-size: 1.4rem;
+.textotoolbar {
+  padding-left: 1.5rem;
+  color: cornsilk;
+  font-size: 1.4rem;
 }
